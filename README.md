@@ -15,5 +15,8 @@ To change the default folder location, double click the terminal command action 
 
 The default for Foundation's project is SCSS. To change it to SASS, add "--syntax sass" to the end of the "Copy to Clipboard" output.
 
+### Instructions
+To use this workflow. Type in "foundation your-project". Replace your-project with the title of your project (which will result in the folder's name upon project creation).
+
 ### Questions or Comments?
 Send me a message on twitter: [**@joshmedeski**](https://twitter.com/joshmedeski)
