@@ -6,17 +6,19 @@ This is a simple [Alfred](http://www.alfredapp.com/) workflow that allows you to
 
 ### Installation
 
-Download the zip. Extract and double click "foundation.alfredworkflow"
+1. Download the zip. Extract and double click "foundation.alfredworkflow"
 
-### Folder Location !important
-To change the default folder location, double click the terminal command action "cd /Applications/MAMP/htdocs" to the folder of your choice. 
+![Step 1](step1.jpeg)
 
-### SCSS vs SASS
+2. Change the default project folder in the first terminal command.
 
-The default for Foundation's project is SCSS. To change it to SASS, add "--syntax sass" to the end of the "Copy to Clipboard" output.
+![Step 2](step2.jpeg) 
 
 ### Instructions
 To use this workflow. Type in "foundation your-project". Replace your-project with the title of your project (which will result in the folder's name upon project creation).
+
+### Update Foundation
+Just type "foundation update" and the terminal will run and update your gem to the latest version :)
 
 ### Questions or Comments?
 Send me a message on twitter: [**@joshmedeski**](https://twitter.com/joshmedeski)
