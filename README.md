@@ -1,6 +1,6 @@
 ## Foundation
 
-This is a simple [Alfred](http://www.alfredapp.com/) workflow that allows you to quickly create and update [Foundation]((http://foundation.zurb.com/)) projects.
+This is a simple [Alfred](http://www.alfredapp.com/) workflow that allows you to quickly create and update [Foundation](http://foundation.zurb.com/) projects.
 
 Learn more about Foundation and get it installed on your computer [visit the docs](http://foundation.zurb.com/docs/sass.html).
 
@@ -23,3 +23,4 @@ Send me a message on twitter: [**@joshmedeski**](https://twitter.com/joshmedeski
 
 #### November 21, 2013
 - Updated to Foundation 5!
+- Removed legacy functions (from Foundation 4)
